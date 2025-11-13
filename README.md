@@ -1,3 +1,5 @@
+# WHY WOULD YOU USE GenAI SYSTEMS TO GENERATE EVERYTHING FROM START TO FINISH??? HIGHLY UNACCEPTEBLE.
+# Please write your & ID?
 # BMW Vehicle Project 
 
 This project is a simple Python application that models BMW vehicles using object-oriented programming (OOP). It demonstrates inheritance with a main class (`BMW`) and three child classes: `BMWCar`, `BMWMotorcycle`, and `BMWSUV`.
