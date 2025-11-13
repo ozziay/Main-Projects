@@ -26,3 +26,32 @@ This project is a simple Python application that models BMW vehicles using objec
 - BMW R1300GS 2025
 - BMW X6 M60i 2025
 - BMW X1 2025
+
+
+POLYMORPHISM
+BMW Polymorphism Example
+
+This Python program demonstrates the concept of polymorphism using three different BMW vehicle types:
+
+BMWCar
+
+BMWMotorcycle
+
+BMWSUV
+
+Each class defines the same method, show_info(), but with different implementations.
+The bmw_info() function takes any object that has a show_info() method — regardless of its class — and calls it.
+
+This shows polymorphism:
+
+The same function behaves differently depending on the object that is passed to it.
+
+Example output:
+
+This is a BMW car. It is fast and comfortable.
+
+This is a BMW motorcycle. It is light and agile.
+
+This is a BMW SUV. It is powerful and spacious.
+
+
